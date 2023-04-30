@@ -1,0 +1,9 @@
+-- The cyber mentor youtube channel 
+website -- academy.tcm.sec.com for courses
+ -- the bitten tech youtube channel
+ vulnfub.com --virtual machines for practices
+
+tryhackme.com -- practice website'
+hackthebox -- website
+
+picoCTF --depth study website
